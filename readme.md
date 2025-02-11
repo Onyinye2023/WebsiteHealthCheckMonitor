@@ -1,3 +1,10 @@
+#Website Health Check Monitor<span>#</span>
+
+Created a C# Console app that checks if an Azure App Service website is running and sends an email if it’s down.
+Skills:
+HTTP requests in C#.
+Simple email alerts using SMTP.
+Azure Services: App Service, Azure Functions
 # TimerTrigger - C<span>#</span>
 
 The `TimerTrigger` makes it incredibly easy to have your functions executed on a schedule. This sample demonstrates a simple use case of calling your function every 5 minutes.
